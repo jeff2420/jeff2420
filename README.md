@@ -21,7 +21,7 @@ Sou apaixonado por desenvolvimento e tecnologia! Atualmente, trabalho principalm
   <a href="mailto:jeffersonfoliveira15@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail" />
   </a>
-  <a href="www.linkedin.com/in/jefferson-oliveira2" target="_blank">
+  <a href="https://www.linkedin.com/in/jefferson-oliveira2/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
